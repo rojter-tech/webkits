@@ -1,0 +1,227 @@
+{
+    "azure-devops-getting-started": {
+        "url": "https://www.pluralsight.com/courses/azure-devops-getting-started",
+        "name": "Azure DevOps: Getting Started",
+        "author": "Benjamin Day",
+        "level": "Beginner",
+        "date": "Jul 19 2019",
+        "length": "5h 13m",
+        "rating": "(22)"
+    },
+    "microsoft-azure-cognitive-services-face-api": {
+        "url": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-face-api",
+        "name": "Microsoft Azure Cognitive Services: Face API",
+        "author": "Steve Michelotti",
+        "level": "Beginner",
+        "date": "Jun 21 2018",
+        "length": "1h 31m",
+        "rating": "(21)"
+    },
+    "javascript-asynchronous-modern": {
+        "url": "https://www.pluralsight.com/courses/javascript-asynchronous-modern",
+        "name": "Modern Asynchronous JavaScript",
+        "author": "Wes Higbee",
+        "level": "Advanced",
+        "date": "Aug 8 2016",
+        "length": "6h 35m",
+        "rating": "(96)"
+    },
+    "planning-designing-microsoft-azure-compute-solutions": {
+        "url": "https://www.pluralsight.com/courses/planning-designing-microsoft-azure-compute-solutions",
+        "name": "Planning and Designing Microsoft Azure Compute Solutions",
+        "author": "John Savill",
+        "level": "Intermediate",
+        "date": "Jun 20 2017",
+        "length": "4h 4m",
+        "rating": "(37)"
+    },
+    "photorealistic-weapons-zbrush-quixel-suite-2456": {
+        "url": "https://www.pluralsight.com/courses/photorealistic-weapons-zbrush-quixel-suite-2456",
+        "name": "Creating Photorealistic Weapons with ZBrush and Quixel SUITE",
+        "author": "Isaac Oster",
+        "level": "Intermediate",
+        "date": "Apr 1 2016",
+        "length": "5h 18m",
+        "rating": "none"
+    },
+    "inventor-surface-modeling-getting-started": {
+        "url": "https://www.pluralsight.com/courses/inventor-surface-modeling-getting-started",
+        "name": "Getting Started with Inventor Surface Modeling",
+        "author": "Matt Perez",
+        "level": "Advanced",
+        "date": "Jun 2 2017",
+        "length": "1h 56m",
+        "rating": "none"
+    },
+    "clean-plating-feature-films-nuke-mari-bridge-1591": {
+        "url": "https://www.pluralsight.com/courses/clean-plating-feature-films-nuke-mari-bridge-1591",
+        "name": "Clean Plating for Feature Films Using the NUKE to MARI Bridge",
+        "author": "Doug Hogan",
+        "level": "Advanced",
+        "date": "Apr 28 2014",
+        "length": "1h 26m",
+        "rating": "none"
+    },
+    "sculpting-demonic-creature-zbrush-576": {
+        "url": "https://www.pluralsight.com/courses/sculpting-demonic-creature-zbrush-576",
+        "name": "Sculpting a Demonic Creature in ZBrush",
+        "author": "Lee Magalhaes",
+        "level": "Advanced",
+        "date": "Feb 18 2013",
+        "length": "6h 13m",
+        "rating": "none"
+    },
+    "design-ecommerce-mobile-first-2476": {
+        "url": "https://www.pluralsight.com/courses/design-ecommerce-mobile-first-2476",
+        "name": "Design for e-Commerce in a Mobile-first World",
+        "author": "Megan Young",
+        "level": "Intermediate",
+        "date": "Jun 21 2016",
+        "length": "2h 39m",
+        "rating": "(19)"
+    },
+    "exploring-nurbs-maya-86": {
+        "url": "https://www.pluralsight.com/courses/exploring-nurbs-maya-86",
+        "name": "Exploring NURBS in Maya",
+        "author": "Justin Marshall",
+        "level": "Beginner",
+        "date": "Aug 2 2011",
+        "length": "1h 28m",
+        "rating": "none"
+    },
+    "wso2-fast-enterprise-application-development": {
+        "url": "https://www.pluralsight.com/courses/wso2-fast-enterprise-application-development",
+        "name": "Fast Enterprise Application Development with WSO2",
+        "author": "Edward Curren",
+        "level": "Beginner",
+        "date": "Feb 14 2017",
+        "length": "2h 22m",
+        "rating": "(13)"
+    },
+    "unity-5-authoring-sci-fi-visual-effects-2552": {
+        "url": "https://www.pluralsight.com/courses/unity-5-authoring-sci-fi-visual-effects-2552",
+        "name": "Authoring Sci-fi Visual Effects in Unity 5",
+        "author": "Michael Baker",
+        "level": "Intermediate",
+        "date": "Nov 29 2016",
+        "length": "2h 21m",
+        "rating": "(14)"
+    },
+    "solidworks-sheet-metal-enclosure-part-design-2403": {
+        "url": "https://www.pluralsight.com/courses/solidworks-sheet-metal-enclosure-part-design-2403",
+        "name": "SOLIDWORKS Sheet Metal - Enclosure Part Design",
+        "author": "Chris Scarlett",
+        "level": "Intermediate",
+        "date": "Feb 23 2016",
+        "length": "2h 13m",
+        "rating": "none"
+    },
+    "beginners-guide-mudbox-22": {
+        "url": "https://www.pluralsight.com/courses/beginners-guide-mudbox-22",
+        "name": "Beginner's Guide to Mudbox",
+        "author": "Justin Marshall",
+        "level": "Beginner",
+        "date": "Jun 1 2011",
+        "length": "1h 17m",
+        "rating": "none"
+    },
+    "exploring-animation-maya-climbing-wall-396": {
+        "url": "https://www.pluralsight.com/courses/exploring-animation-maya-climbing-wall-396",
+        "name": "Exploring Animation in Maya: Climbing A Wall",
+        "author": "Delano Athias",
+        "level": "Beginner",
+        "date": "Sep 1 2010",
+        "length": "2h 52m",
+        "rating": "none"
+    },
+    "scala-getting-started": {
+        "url": "https://www.pluralsight.com/courses/scala-getting-started",
+        "name": "Scala: Getting Started",
+        "author": "Justin Pihony",
+        "level": "Intermediate",
+        "date": "Jun 6 2014",
+        "length": "2h 1m",
+        "rating": "(381)"
+    },
+    "introduction-char-rigging-cinema-4d-55": {
+        "url": "https://www.pluralsight.com/courses/introduction-char-rigging-cinema-4d-55",
+        "name": "Introduction to Character Rigging in CINEMA 4D",
+        "author": "Delano Athias",
+        "level": "Beginner",
+        "date": "Jul 2 2011",
+        "length": "2h 54m",
+        "rating": "none"
+    },
+    "making-business-case-for-best-practices": {
+        "url": "https://www.pluralsight.com/courses/making-business-case-for-best-practices",
+        "name": "Making the Business Case for Best Practices",
+        "author": "Erik Dietrich",
+        "level": "Beginner",
+        "date": "Dec 31 2014",
+        "length": "4h 41m",
+        "rating": "(72)"
+    },
+    "solidworks-introduction": {
+        "url": "https://www.pluralsight.com/courses/solidworks-introduction",
+        "name": "Introduction to SOLIDWORKS",
+        "author": "Matt Morgan",
+        "level": "Beginner",
+        "date": "Oct 2 2015",
+        "length": "2h 16m",
+        "rating": "(29)"
+    },
+    "exploring-maya-2016-2022": {
+        "url": "https://www.pluralsight.com/courses/exploring-maya-2016-2022",
+        "name": "Exploring Maya 2016",
+        "author": "Justin Marshall",
+        "level": "Beginner",
+        "date": "Aug 14 2015",
+        "length": "50m",
+        "rating": "(18)"
+    },
+    "joint-based-facial-rigging-maya-1133": {
+        "url": "https://www.pluralsight.com/courses/joint-based-facial-rigging-maya-1133",
+        "name": "Joint-based Facial Rigging in Maya",
+        "author": "Tim Callaway",
+        "level": "Advanced",
+        "date": "May 20 2013",
+        "length": "3h 26m",
+        "rating": "(15)"
+    },
+    "vmware-virtual-san-fundamentals": {
+        "url": "https://www.pluralsight.com/courses/vmware-virtual-san-fundamentals",
+        "name": "VMware Virtual SAN (VSAN) Fundamentals",
+        "author": "David Davis",
+        "level": "Intermediate",
+        "date": "Aug 15 2014",
+        "length": "3h 15m",
+        "rating": "(90)"
+    },
+    "java-swing-development-netbeans": {
+        "url": "https://www.pluralsight.com/courses/java-swing-development-netbeans",
+        "name": "Java Swing Development Using NetBeans",
+        "author": "Rusty Lowrey",
+        "level": "Intermediate",
+        "date": "Jan 3 2014",
+        "length": "3h 18m",
+        "rating": "(102)"
+    },
+    "powershell-office-365": {
+        "url": "https://www.pluralsight.com/courses/powershell-office-365",
+        "name": "PowerShell for Office 365",
+        "author": "Vlad Catrinescu",
+        "level": "Intermediate",
+        "date": "Oct 22 2015",
+        "length": "3h 36m",
+        "rating": "(107)"
+    },
+    "vmware-esx-server-pt3": {
+        "url": "https://www.pluralsight.com/courses/vmware-esx-server-pt3",
+        "name": "VMware ESX Server: Advanced Features",
+        "author": "David Davis",
+        "level": "Intermediate",
+        "date": "Jan 8 2008",
+        "length": "3h 10m",
+        "rating": "none"
+    }
+}
